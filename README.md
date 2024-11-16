@@ -32,9 +32,16 @@ A **React.js** project to manage employee tasks efficiently. This system allows 
 - **Context API**: For managing global state efficiently.  
 
 ## Screenshots of the webApp
-![image](https://github.com/user-attachments/assets/3f59e8c8-89a1-459c-ae08-32f1affaa3cd)
-![image](https://github.com/user-attachments/assets/b45e4266-dae1-47d2-900b-08b6a49a906a)
-![image](https://github.com/user-attachments/assets/6dfbe2bd-d919-459d-9b23-fb5ce25487f7)
+-Login Page
+![image](https://github.com/user-attachments/assets/5296f080-c14c-402b-8e28-655997e61f49)
+
+-Admin Page
+![image](https://github.com/user-attachments/assets/62120875-677a-425a-864e-4008cbdb25b7)
+
+-Employee Page
+![image](https://github.com/user-attachments/assets/c6bbe92f-b056-4749-aa63-971a5689b403)
+
+
 
 
 
