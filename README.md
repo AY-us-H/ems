@@ -31,3 +31,10 @@ A **React.js** project to manage employee tasks efficiently. This system allows 
 - **Tailwind CSS**: For responsive and modern styling.  
 - **Context API**: For managing global state efficiently.  
 
+## Screenshots of the webApp
+![image](https://github.com/user-attachments/assets/3f59e8c8-89a1-459c-ae08-32f1affaa3cd)
+![image](https://github.com/user-attachments/assets/b45e4266-dae1-47d2-900b-08b6a49a906a)
+![image](https://github.com/user-attachments/assets/6dfbe2bd-d919-459d-9b23-fb5ce25487f7)
+
+
+
