@@ -29,7 +29,12 @@ A **React.js** project to manage employee tasks efficiently. This system allows 
 - **React.js**: Frontend framework for building UI components.  
 - **Vite**: Tool for initializing and building the project.  
 - **Tailwind CSS**: For responsive and modern styling.  
-- **Context API**: For managing global state efficiently.  
+- **Context API**: For managing global state efficiently.
+
+## Login Credentials
+- **ADMIN**: email-admin@me.com ; Pass : 123
+- **EMPLOYEE**: email-e@e.com ; Pass : 123
+- The details of different employee with their email id can be found in localstorage.jsx file and the password remains the same
 
 ## Screenshots of the webApp
 -Login Page
